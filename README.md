@@ -39,3 +39,5 @@ A native Android application that retrieves and displays data from Fetch's hirin
 - Android SDK 34
 - Android 7.0 (API 24) or higher
 
+
+##Developed by Priyanka Sharma
